@@ -57,6 +57,15 @@ The dataset does not include ages or age groups, which would have really helped 
   
 **<ins>Total COVID-19 Cases vs Deaths:<ins/>**
   
+
+  ![Screenshot (171)](https://user-images.githubusercontent.com/93872864/144759919-9e8290de-2ab1-4514-a7d7-842ead80b044.png)
+
+  
+ - The total number of global COVID-19 cases seems to drastically outnumber the number of deaths. This finding was a great insight, as it helped dive deeper into the data.
+  
+  
+  
+  
  
 
 
