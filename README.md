@@ -18,6 +18,26 @@ The dataset does not include ages or age groups, which would have really helped 
   
  The total amount of worldwide COVID-19 deaths is **5.2 million**.
   
+**<ins>Top 5 Countries with the Highest COVID-19 Death Count:<ins/>**
+  
+1. United States (767k)
+2. Brazil (613k)
+3. India (466k)
+4. Mexico (292k)
+5. Russia (267k)
+  
+**<ins>Top 5 Countries with the Highest COVID-19 Case Count:<ins/>**
+  
+1. United States (47 Million)
+2. India (34 Million)
+3. Brazil (22 Million)
+4. United Kingdom (9.9 Million)
+5. Russia (9 Million)
+  
+ 
+  **<ins>Top 5 Countries with the Lowest COVID-19 Death Count:<ins/>**
+  
+1. 
   
   
   
