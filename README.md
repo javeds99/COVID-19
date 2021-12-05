@@ -13,6 +13,8 @@ The goal of this project was to learn how to source my own data and further deve
   
 The dataset does not include ages or age groups, which would have really helped the analysis. Some deaths/cases were also misdiagnosed and retracted from the WHO database.
 
+  
+  **This dataset was last updated on November 23, 2021 by the World Health Organization. It contains global COVID-19 case/death data from 2020-2021.**
 
 **<ins>Total Amount of Global COVID-19 Deaths:<ins/>**
   
@@ -37,7 +39,11 @@ The dataset does not include ages or age groups, which would have really helped 
  
   **<ins>Top 5 Countries with the Lowest COVID-19 Death Count:<ins/>**
   
-1. 
+1. 24 countries including Greenland, Saba and Samoa recorded 0 COVID-19 deaths
+2. Monsterrat (1 death)
+3. Bhutan, Anguilla and Northern Marina Islands (3 deaths)
+4. Cayman Islands and Saint Barthelemy (4 deaths)
+5. Wallis and Futana (7 deaths)
   
   
   
