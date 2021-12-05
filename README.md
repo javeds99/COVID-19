@@ -16,6 +16,10 @@ The dataset does not include ages or age groups, which would have really helped 
 
 **<ins>Total Amount of Global COVID-19 Deaths:<ins/>**
   
+ The total amount of worldwide COVID-19 deaths is **5.2 million**.
+  
+  
+  
   
 
 
