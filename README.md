@@ -1,1 +1,1 @@
-# COVID-19 Cases and Deaths
+# Global COVID-19 Cases and Deaths
