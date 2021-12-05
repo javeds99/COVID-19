@@ -46,7 +46,18 @@ The dataset does not include ages or age groups, which would have really helped 
 5. Wallis and Futana (7 deaths)
   
   
+**<ins>Top 5 Countries with the Lowest COVID-19 Case Count:<ins/>**
   
+1. 11 countries including North Korea, recorded 0 COVID-19 cases
+2. Samoa and Tonga (1 case)
+3. Marshall Islands (4 cases)
+4. American Samoa and Vanuatu (5 cases)
+5. Palau (8 cases)
+
+  
+**<ins>Total COVID-19 Cases vs Deaths:<ins/>**
+  
+ 
 
 
 
