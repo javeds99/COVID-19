@@ -8,6 +8,12 @@ The goal of this project was to learn how to source my own data and further deve
 - Between 2020 and 2021, which year was worse for COVID-19 cases and deaths?
 
 
+
+**<ins>Data Limitations:<ins/>**
+  
+The dataset does not include ages or age groups, which would have really helped the analysis. Some deaths/cases were also misdiagnosed and retracted from the WHO database.
+
+
 **<ins>Total Amount of Global COVID-19 Deaths:<ins/>**
   
   
