@@ -70,7 +70,7 @@ The dataset does not include ages or age groups, which would have really helped 
  - This visual shows the total cases and deaths of each country. As shown, United States, India and Brazil are the main countries effected by COVID-19, as they lead in death and case counts.
   
 
-**<ins>Comparison of Total COVID-19 Cases and Deaths in the Top 5 Countries<ins/>**
+**<ins>Comparison of Total COVID-19 Cases and Deaths in the Top 5 Countries:<ins/>**
   
   ![Screenshot (174)](https://user-images.githubusercontent.com/93872864/144799572-d0195290-dd62-4bc3-ae2b-f6279df9da05.png)
 
@@ -78,6 +78,17 @@ The dataset does not include ages or age groups, which would have really helped 
  - We can see that the number of deaths in comparison to the total cases is small.
   
   
+ **<ins>Correlation of Cases and Deaths:<ins/>**
+  
+  ![Screenshot (177)](https://user-images.githubusercontent.com/93872864/144803978-5fb14ff2-23e9-401c-a963-b97ac28706bc.png)
+
+  
+ - There is a positive relationship between cases and deaths.
+  
+  
+  **<ins>Summary:<ins/>**
+  
+COVID-19 has impacted the entire globe in different ways. Some regions experienced high case numbers, as high as 43 million, while some countries never broke 5,000 cases. Furthermore, a strong correlation between cases and death was found. As cases increase, so does the death count. However, the death count in comparison to the number of cases is smaller. For example, the United States recorded 43 million cases, but only 767,000 deaths in comparison to the high case numbers. The data also shows that heavily populated countries such as India and Brazil experience the highest number of cases and deaths. With these insights and findings, it appears that COVID-19 will spread to more people in heavily populated areas. However, the number of deaths compared to the number of cases indicate that while precautions and protocols would be good, it would make more sense to prioritize the vulnerable populations, as COVID-19 affects older individuals.
   
   
   
