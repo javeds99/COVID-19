@@ -63,6 +63,14 @@ The dataset does not include ages or age groups, which would have really helped 
   
  - The total number of global COVID-19 cases seems to drastically outnumber the number of deaths. This finding was a great insight, as it helped dive deeper into the data.
   
+ 
+ ![Screenshot (173)](https://user-images.githubusercontent.com/93872864/144794218-7cb5ff99-a864-496b-a5e5-6af730ef8d8b.png)
+
+  
+ - This visual shows the total cases and deaths of each country. As shown, United States, India and Brazil are the main countries effected by COVID-19, as they lead in death and case counts.
+  
+
+  
   
   
   
