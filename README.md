@@ -70,6 +70,14 @@ The dataset does not include ages or age groups, which would have really helped 
  - This visual shows the total cases and deaths of each country. As shown, United States, India and Brazil are the main countries effected by COVID-19, as they lead in death and case counts.
   
 
+**<ins>Comparison of Total COVID-19 Cases and Deaths in the Top 5 Countries<ins/>**
+  
+  ![Screenshot (174)](https://user-images.githubusercontent.com/93872864/144799572-d0195290-dd62-4bc3-ae2b-f6279df9da05.png)
+
+  
+ - We can see that the number of deaths in comparison to the total cases is small.
+  
+  
   
   
   
