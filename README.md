@@ -22,6 +22,12 @@ The dataset does not include ages or age groups, which would have really helped 
 
   
  The total amount of worldwide COVID-19 deaths is **5.2 million**.
+ 
+  2020 Global COVID-19 Deaths: 1,901,213
+  2021 Global COVID-19 Deaths: 3,256,985
+  Average Number of Deaths for Both Years: 2,579,099
+
+
   
 **<ins>Top 5 Countries with the Highest COVID-19 Death Count:<ins/>**
   
