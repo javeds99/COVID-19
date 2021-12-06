@@ -89,7 +89,9 @@ The dataset does not include ages or age groups, which would have really helped 
   **<ins>Summary:<ins/>**
   
 COVID-19 has impacted the entire globe in different ways. Some regions experienced high case numbers, as high as 43 million, while some countries never broke 5,000 cases. Furthermore, a strong correlation between cases and death was found. As cases increase, so does the death count. However, the death count in comparison to the number of cases is smaller. For example, the United States recorded 43 million cases, but only 767,000 deaths in comparison to the high case numbers. The data also shows that heavily populated countries such as India and Brazil experience the highest number of cases and deaths. With these insights and findings, it appears that COVID-19 will spread to more people in heavily populated areas. However, the number of deaths compared to the number of cases indicate that while precautions and protocols would be good, it would make more sense to prioritize the vulnerable populations, as COVID-19 affects older individuals.
-  
+
+
+**Link to Tableau Dashboard:**  
   
   
   
