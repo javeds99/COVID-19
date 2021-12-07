@@ -99,6 +99,9 @@ The dataset does not include ages or age groups, which would have really helped 
   
   
   ![Screenshot (180)](https://user-images.githubusercontent.com/93872864/144958199-dfc4a872-cd57-4bfe-82e0-f38f20a9989e.png)
+  
+  
+- This chart suggests that COVID-19 is most similar to Pneumonia in terms of the death toll. 
 
   
   
