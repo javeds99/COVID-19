@@ -95,6 +95,14 @@ The dataset does not include ages or age groups, which would have really helped 
  - There is a positive relationship between cases and deaths.
   
   
+**<ins>Comparing COVID-19 to Other Health Concerns(from the W.H.O.):<ins/>**
+  
+  
+  ![Screenshot (180)](https://user-images.githubusercontent.com/93872864/144958199-dfc4a872-cd57-4bfe-82e0-f38f20a9989e.png)
+
+  
+  
+  
   **<ins>Summary:<ins/>**
   
 COVID-19 has impacted the entire globe in different ways. Some regions experienced high case numbers, as high as 43 million, while some countries never broke 5,000 cases. Furthermore, a strong correlation between cases and death was found. As cases increase, so does the death count. However, the death count in comparison to the number of cases is smaller. For example, the United States recorded 43 million cases, but only 767,000 deaths in comparison to the high case numbers. The data also shows that heavily populated countries such as India and Brazil experience the highest number of cases and deaths. With these insights and findings, it appears that COVID-19 will spread to more people in heavily populated areas. However, the number of deaths compared to the number of cases indicate that while precautions and protocols would be good, it would make more sense to prioritize the vulnerable populations, as we do with diseases similar to COVID-19 such as pnuemonia. 
