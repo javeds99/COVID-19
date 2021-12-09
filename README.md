@@ -89,10 +89,11 @@ The dataset does not include ages or age groups, which would have really helped 
   
  **<ins>Correlation of Cases and Deaths:<ins/>**
   
-  ![Screenshot (177)](https://user-images.githubusercontent.com/93872864/144803978-5fb14ff2-23e9-401c-a963-b97ac28706bc.png)
+  ![Screenshot (181)](https://user-images.githubusercontent.com/93872864/145441089-ca35294c-af00-43b7-a5fa-bcaa7690db94.png)
+
 
   
- - There is a positive relationship between cases and deaths.
+ - There is a positive relationship between cases and deaths, confirmed by an R2 Score of 0.87. 
   
   
 **<ins>Comparing COVID-19 to Other Health Concerns(from the W.H.O.):<ins/>**
